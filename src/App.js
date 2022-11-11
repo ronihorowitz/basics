@@ -10,7 +10,6 @@ function App() {
         <Person personName = "Jack" personLocation = "London" />
         <Person personName = "Yoav" personLocation = "Jerusalem" />
         <Person personName = "Mohamed" personLocation = "Dubai" />
-        <Person personName = "Jurgen" personLocation = "Munich" />
     </div>
   );
 }
